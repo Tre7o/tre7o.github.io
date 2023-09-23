@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.trev.movieapp",
+    "sha256_cert_fingerprints":
+    ["31:2E:C8:DC:0F:D1:7A:29:3E:82:FF:B6:2D:44:28:CF:C4:2E:70:E9:5A:33:31:1E:CD:F4:5A:98:73:85:BF:7A"]
+  }
+}]
